@@ -1,3 +1,5 @@
+<img align="center" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif"/>
+</p>
 https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif
 <h1 align="center">Hi 👋, I'm Olivier!</h1>
 <h3 align="center">A passionate frontend developer from Belgium</h3>
