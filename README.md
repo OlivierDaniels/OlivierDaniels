@@ -1,4 +1,4 @@
-<img align="center" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" height="300"/>
+<img align="center" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Olivier!</h1>
 <h3 align="center">A Information Technology Student from Belgium</h3>
