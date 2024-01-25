@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olivier!</h1>
 <h3 align="center">A passionate frontend developer from Belgium</h3>
 
-- 🔭 I’m currently working on **React websites**
+- 🔭 I’m currently working on **React websites for my hobbies**
 
-- 🌱 I’m currently learning **React and Figma**
+- 🌱 I’m currently learning more about **React and Figma**
 
 - 👯 I’m looking to collaborate on **everything thats in my skillbox**
 
