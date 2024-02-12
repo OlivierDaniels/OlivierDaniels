@@ -1,11 +1,9 @@
-<img align="center" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" />
-</p>
 <h1 align="center">Hi 👋, I'm Olivier!</h1>
 <h3 align="center">A Information Technology Student from Belgium</h3>
 
 - 🔭 I’m currently working on **React websites for my hobbies**
 
-- 🌱 I’m currently learning more about **React and Figma**
+- 🌱 I’m currently learning more about **React and C# MAUI**
 
 - 👯 I’m looking to collaborate on projects that contain **everything thats in my skillbox**
 
